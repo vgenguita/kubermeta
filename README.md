@@ -57,4 +57,4 @@ Los conceptos que abarca la certificación son los siguientes:
   - Know how to configure and use CoreDNS
   - Choose an appropriate container network interface plugin
 
-  Dichos conceptos se abarcan en [LFS158x.md](LFS158x.md) y [CKA.md](CKA.md)
+  Dichos conceptos se abarcan en [LFS158x.md](https://github.com/vgenguita/kubermeta/blob/main/LFS158x.md) y [CKA.md]()
